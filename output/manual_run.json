@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Find travel destinations",
+    "processing_timestamp": "2025-12-07T15:34:53.217780",
+    "total_sections_found": 70,
+    "top_k_selected": 20
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Travel Tips",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Beach Trips",
+      "importance_rank": 2,
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Theme Parks and Attractions",
+      "importance_rank": 3,
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Key Attractions",
+      "importance_rank": 4,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Key Attractions",
+      "importance_rank": 5,
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Key Attractions",
+      "importance_rank": 6,
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Key Attractions",
+      "importance_rank": 7,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Key Attractions",
+      "importance_rank": 8,
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Key Attractions",
+      "importance_rank": 9,
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Key Attractions",
+      "importance_rank": 10,
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Key Attractions",
+      "importance_rank": 11,
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Key Attractions",
+      "importance_rank": 12,
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Hiking and Outdoor Activities",
+      "importance_rank": 13,
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Hotels",
+      "importance_rank": 14,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Wine Tours",
+      "importance_rank": 15,
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Hiking and Biking",
+      "importance_rank": 16,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Pilgrimages",
+      "importance_rank": 17,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Luxurious Hotels",
+      "importance_rank": 18,
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Historical Sites",
+      "importance_rank": 19,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Restaurants",
+      "importance_rank": 20,
+      "page_number": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Travel Tips • Best Time to Visit : The best time to visit the South of France is during the spring (April to June) and fall (September to October) when the weather is pleasant, and the tourist crowds are smaller. • Transportation : The region is well-connected by an extensive network of trains, buses, and flights. Renting a car is also a great option for exploring the countryside and smaller towns. • Language : While French is the oﬃcial language, English is widely spoken in tourist areas. Learning a few basic French phrases can enhance your travel experience. Marseille: The Oldest City in France History Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic location on the Mediterranean coast made it a vital trading port throughout history. The city's rich cultural heritage is reflected in its diverse architecture and vibrant atmosphere. Over the centuries, Marseille has been influenced by various cultures, including Greek, Roman, and North African, making it a melting pot of traditions and customs.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Beach Trips • Beach Bag: A large, waterproof bag for essentials. • Towels: Lightweight, quick-drying beach towels. • Beach Toys: Buckets, shovels, and toys for kids. • Snorkeling Gear: Bring your own gear for a better fit and comfort. • Additional Tips: Pack a beach umbrella or tent for shade and a cooler for drinks and snacks. Consider bringing a waterproof phone case to protect your device.",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Theme Parks and Attractions • Antibes: Visit Marineland for marine shows and an aquarium. • Fréjus: Cool oﬀ at Aqualand water park. • Villeneuve-Loubet: Enjoy quirky attractions at Le Village des Fous. • Monteux: Spend a day at Parc Spirou, a theme park based on the famous comic book character. • La Palmyre: Explore the La Palmyre Zoo, home to a wide variety of animals. • Cap d'Agde: Have fun at Luna Park, an amusement park with rides and games. • Toulouse: Visit the Cité de l'Espace, a space-themed science museum with interactive exhibits.",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Key Attractions • Old Port (Vieux-Port) : The heart of Marseille, the Old Port has been a bustling harbor for over 2,600 years. Today, it is a lively area filled with cafes, restaurants, and markets. • Basilica of Notre-Dame de la Garde : This iconic basilica, perched on a hill overlooking the city, oﬀers panoramic views of Marseille and the Mediterranean Sea. Built in the 19th century, it is a symbol of the city's maritime heritage. • MuCEM (Museum of European and Mediterranean Civilizations) : This modern museum explores the cultural history of the Mediterranean region through a variety of exhibits and interactive displays. • Le Panier : The oldest district in Marseille, Le Panier is a maze of narrow streets, colorful buildings, and historic landmarks. It's a great place to explore the city's past and enjoy its vibrant culture. Local Experiences • Boat Trip to the Calanques : Take a boat trip to the Calanques, a series of stunning limestone cliﬀs and coves along the coast.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Key Attractions • Promenade des Anglais : This famous seaside promenade, built in the 19th century, is perfect for a leisurely stroll along the coast. It oﬀers stunning views of the Mediterranean and is lined with cafes and hotels. • Castle Hill (Colline du Château) : This hilltop park oﬀers panoramic views of Nice and the Mediterranean. It was once the site of a medieval castle, which was destroyed in the 18th century. • Old Town (Vieux Nice) : The historic center of Nice is a labyrinth of narrow streets, baroque churches, and bustling markets. Don't miss the Cours Saleya market, where you can find fresh produce, flowers, and local delicacies. • Matisse Museum : Dedicated to the works of Henri Matisse, who spent much of his life in Nice, this museum features a comprehensive collection of his paintings, sculptures, and drawings. Hidden Gems • Russian Orthodox Cathedral : Visit the stunning Russian Orthodox Cathedral, a unique architectural gem in Nice.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Key Attractions • Palais des Papes : This massive Gothic palace was the residence of the popes during their stay in Avignon. It is one of the largest and most important medieval Gothic buildings in Europe. • Pont Saint-Bénézet (Pont d'Avignon) : This famous bridge, immortalized in the song \"Sur le Pont d'Avignon,\" was built in the 12th century. Although only a few arches remain, it is a UNESCO World Heritage site. • Avignon Cathedral : Located next to the Palais des Papes, this Romanesque cathedral dates back to the 12th century and features a gilded statue of the Virgin Mary. • Place de l'Horloge : The main square in Avignon, this lively area is surrounded by cafes, restaurants, and historic buildings, including the 19th-century town hall and opera house. Cultural Activities • Opéra Grand Avignon : Attend a performance at the Opéra Grand Avignon for a cultural treat. • Arts Scene : Explore the city's vibrant arts scene, with numerous galleries and exhibitions.",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Key Attractions • Cours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is the heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere. • Saint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries, features a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is known for its beautiful cloister and triptych by Nicolas Froment. • Hôtel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant building with a beautiful clock tower and an ornate facade. The square in front of the Hôtel de Ville is a lively spot, often hosting markets and events. • Atelier Cézanne: The studio of Paul Cézanne, one of the most famous painters associated with Aix-en-Provence, is preserved as a museum. Visitors can see where Cézanne created many of his masterpieces and gain insight into his artistic process. Artistic Heritage • Walking Tour: Take a walking tour of sites related to Paul Cézanne, such as the Terrain des Peintres and the Bibémus Quarry.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Key Attractions • Basilica of Saint-Sernin: This Romanesque basilica, built between the 11th and 13th centuries, is a UNESCO World Heritage site. It is one of the largest and best-preserved Romanesque churches in Europe. • Capitole de Toulouse: The city's town hall and theater, the Capitole, is an impressive building with a neoclassical facade. It has been the seat of municipal power since the 12th century. • Jacobins Convent: This Gothic convent, founded in the 13th century, is known for its beautiful cloister and the relics of Saint Thomas Aquinas. • Cité de l'Espace: This space-themed science museum features interactive exhibits, a planetarium, and a replica of the Mir space station. It's an engaging and educational experience for visitors of all ages. Aerospace Industry • Airbus Factory Tours: Visit the Airbus factory for a fascinating tour of one of the world's leading aircraft manufacturers. • Aeroscopia Museum: Explore the history of aviation at the Aeroscopia Museum, which features a collection of historic aircraft.",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Key Attractions • Place de la Comédie: The central square of Montpellier, this bustling area is surrounded by cafes, shops, and the impressive Opéra Comédie. It is a great place to start exploring the city. • Saint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its imposing facade and twin towers. It is the seat of the Archdiocese of Montpellier. • Promenade du Peyrou: This 17th-century promenade oﬀers stunning views of the city and features the Arc de Triomphe and the Château d'Eau, a beautiful water tower. • Musée Fabre: One of the most important art museums in France, the Musée Fabre houses an extensive collection of European paintings, sculptures, and decorative arts. Student Life • University Influence: Highlight the vibrant student life and the influence of the university on the city's culture. • Modern Architecture: Mention modern architectural landmarks like the Antigone district or the Pierresvives building.",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Key Attractions • Palace of the Kings of Majorca: This impressive fortress, built in the 13th century, was the residence of the Kings of Majorca. It oﬀers panoramic views of the city and the surrounding countryside. • Perpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this Gothic cathedral was built in the 14th century and features a beautiful cloister and bell tower. • Castillet: This iconic red-brick gatehouse, built in the 14th century, is a symbol of Perpignan. It now houses the Casa Pairal Museum, which showcases the history and culture of the region. • Loge de Mer: This historic building, originally a maritime trading exchange, dates back to the 14th century. It is located in the heart of the old town and is a testament to Perpignan's rich mercantile history. Cultural Fusion • Festivals: Emphasize the blend of French and Catalan cultures in the city's festivals, cuisine, and traditions.",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Key Attractions • Arles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is still used for events such as bullfights and concerts. It is one of the best-preserved Roman structures in France. • Church of St. Trophime: This Romanesque church, built in the 12th century, is known for its stunning portal and cloister. It was an important stop on the pilgrimage route to Santiago de Compostela. • Alyscamps: This ancient Roman necropolis, located just outside the city walls, was a major burial site in antiquity. It features a long avenue lined with sarcophagi. • Thermes de Constantin: These Roman baths, built in the 4th century AD, are a testament to the city's importance during the Roman period. Artistic Influence • Vincent van Gogh: Include a section on Vincent van Gogh's time in Arles and the locations that inspired his paintings. • Photography: Recommend visiting during the Rencontres d'Arles photography festival for a unique cultural experience.",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Key Attractions • Cité de Carcassonne: This medieval fortress is a UNESCO World Heritage site and one of the most impressive examples of medieval architecture in Europe. It features double walls, 52 towers, and a castle. • Basilica of Saints Nazarius and Celsus: This Gothic-Romanesque basilica, located within the fortress, dates back to the 11th century. It is known for its beautiful stained glass windows. • Château Comtal: This castle, located within the Cité, oﬀers guided tours that provide insight into the history and architecture of Carcassonne. • Pont Vieux: This 14th-century bridge connects the medieval Cité with the lower town. It oﬀers stunning views of the fortress and the surrounding countryside. Medieval Life • Reenactments: Provide insights into medieval life in Carcassonne, including reenactments and historical tours. • Surrounding Area: Suggest exploring the surrounding Languedoc region, known for its vineyards and picturesque villages. Cultural Highlights Carcassonne is known for its vibrant cultural scene, with numerous festivals and events throughout the year.",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Hiking and Outdoor Activities • Backpack: A sturdy, comfortable backpack for essentials. • Water Bottle: A reusable water bottle. • First Aid Kit: A small kit with band-aids, antiseptic wipes, and medications. • Insect Repellent: Protect against bugs and mosquitoes.",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Hotels",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Wine Tours • Comfortable Clothing: Wear comfortable, casual clothing suitable for walking and wine tasting. • Notebook: Bring a notebook to jot down notes about the wines you taste. • Water Bottle: Stay hydrated by drinking water between tastings. • Additional Tips: Plan your wine tour route in advance and consider hiring a driver or joining a guided tour to avoid drinking and driving. Tips and Tricks for Packing • Check the Weather: Check the forecast before packing to ensure appropriate clothing. • Make a Packing List: Create a list to ensure nothing is forgotten. Cross oﬀ items as you pack. • Use Packing Cubes: Organize clothes and maximize space. • Roll Your Clothes: Save space and reduce wrinkles. • Pack Dual-Purpose Items: Choose items that serve multiple purposes. • Wear Bulky Items: Wear bulky items like coats or boots during travel to save suitcase space. • Pack a Day Bag: Bring a small day bag for daily excursions.",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Hiking and Biking • Verdon Gorge : Known as the \"Grand Canyon of Europe,\" oﬀering spectacular hiking trails. • Luberon Regional Park : Explore picturesque villages and rolling hills, famous for lavender fields and vineyards. • Pyrenees National Park : Enjoy challenging hikes and stunning mountain scenery. • Mercantour National Park : Discover diverse wildlife and beautiful alpine landscapes. • Camargue : Explore the unique wetlands on horseback or by bike. • Mont Ventoux : Challenge yourself with a hike or bike ride up this iconic mountain. • Gorges du Tarn : Hike through dramatic gorges and enjoy breathtaking views. Water Activities • Ardèche River : Paddle through the stunning Ardèche Gorge. • Dordogne River : Enjoy a leisurely canoe trip, passing by medieval castles and charming villages. • Ubaye River : Experience white-water rafting for an adrenaline rush. • Gorges du Verdon : Rent a kayak or paddleboat to explore the turquoise waters.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "Pilgrimages The South of France is home to several important pilgrimage sites. The town of Lourdes, located in the Pyrenees, is one of the most famous, attracting millions of visitors each year. Pilgrims come to Lourdes to visit the Sanctuary of Our Lady of Lourdes, where the Virgin Mary is said to have appeared to a young girl in 1858. The town of Saintes-Maries-de-la-Mer is another significant pilgrimage site, particularly for the Romani community, who venerate Saint Sara. Christmas Traditions Christmas in Provence is marked by unique traditions that reflect the region's cultural heritage. One of the most distinctive customs is the \"13 Desserts,\" a feast of thirteen diﬀerent sweets served after Midnight Mass on Christmas Eve. The number represents Jesus and the twelve apostles. Another tradition is the \"santon\" figurines, which are handcrafted clay figures used to create nativity scenes. Santon fairs, such as the one in Marseille, oﬀer a wide variety of these charming figures.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Luxurious Hotels • Grand-Hôtel du Cap-Ferrat, A Four Seasons Hotel (Saint-Jean-Cap-Ferrat): A luxurious hotel set on 7 hectares of Mediterranean gardens, oﬀering elegant rooms, a spa, and a private beach. The exclusive setting and world-class amenities make it a top choice for luxury travelers. • Hôtel de Paris Monte-Carlo (Monaco): A luxurious hotel located in the heart of Monaco, oﬀering opulent rooms, a world-class spa, and several Michelin-starred restaurants. The historic grandeur and exceptional service make it a premier destination. • Château Saint-Martin & Spa (Vence): A luxurious hotel set in a historic château, oﬀering elegant rooms, a Michelin-starred restaurant, and a world-class spa. The tranquil setting and luxurious amenities make it a perfect getaway. • Airelles Château de la Messardière (Saint-Tropez): A luxurious hotel set in a historic château, oﬀering elegant rooms, beautiful gardens, and stunning views of the Mediterranean. The refined ambiance and top-tier services make it a standout choice for luxury accommodations.",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Historical Sites • Nîmes : Walk across the ancient Roman aqueduct, Pont du Gard. • Avignon : Explore the largest Gothic palace in Europe, Palais des Papes. • Carcassonne : Wander through the medieval citadel with its double walls and 52 towers. • Arles : Visit the Roman amphitheater and ancient theater. • Orange : Explore the well-preserved Roman theater and triumphal arch. • Aigues-Mortes : Discover the medieval walled town and its salt marshes. • Grasse : Visit the perfume factories and learn about the history of fragrance production.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Restaurants Budget-Friendly Restaurants • Chez Pipo (Nice): Famous for its socca, a traditional Niçoise chickpea pancake, this casual eatery oﬀers delicious and aﬀordable local dishes. The rustic ambiance and friendly service make it a favorite among locals and tourists alike. • La Merenda (Nice): A small, cozy restaurant serving authentic Niçoise cuisine. The menu changes with the seasons, ensuring fresh and flavorful dishes. Reservations are a must due to its popularity and limited seating. • Chez Etienne (Marseille): Known for its simple yet delicious pizzas and grilled meats, this family-owned restaurant is a local favorite. The lively atmosphere and hearty portions make it a great spot for a casual meal. • Le Bistrot du Paradou (Paradou): A charming bistro oﬀering a daily fixed menu with hearty Provençal dishes at reasonable prices. The warm, welcoming environment and generous servings make it a must-visit. • Le Comptoir du Marché (Nice): This bistro oﬀers a variety of traditional French dishes at aﬀordable prices.",
+      "page_number": 2
+    }
+  ]
+}

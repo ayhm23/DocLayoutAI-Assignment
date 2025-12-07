@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items",
+    "processing_timestamp": "2025-12-07T15:42:53.405193",
+    "total_sections_found": 45,
+    "top_k_selected": 20
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Freekeh Salad",
+      "importance_rank": 1,
+      "page_number": 10
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 3,
+      "page_number": 5
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 4,
+      "page_number": 7
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 5,
+      "page_number": 11
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 6,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 7,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 8,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 9,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 10,
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 11,
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 12,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 13,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 14,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 15,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 16,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 17,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 18,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 19,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 20,
+      "page_number": 4
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "Freekeh Salad Ingredients : o 1 cup freekeh o 2 cups water o 1 small onion o 1/4 cup parsley o 1/4 cup mint o 1/4 cup lemon juice o 1/4 cup olive oil o 1 teaspoon salt Instructions : o Rinse freekeh and cook in water until tender, then drain. o Sauté diced onion in olive oil until softened. o Mix freekeh with sautéed onion, chopped parsley, and mint. o Whisk lemon juice, olive oil, and salt, then pour over salad. o Toss well and serve. Fried Plantains Ingredients : o 2 ripe plantains o 1 cup vegetable oil o 1 teaspoon salt Instructions : o Peel and slice plantains. o Heat oil in a pan and fry plantain slices until golden. o Drain on paper towels and sprinkle with salt. o Serve warm. Fried Rice Ingredients : o 2 cups cooked rice o 1 small onion o 1/2 cup peas o 1/2 cup diced carrots o 2 eggs o 2 tablespoons soy sauce o 1 tablespoon sesame oil o 1/4 cup chopped green onions Instructions : o Sauté diced onion, peas, and carrots in sesame oil until softened.",
+      "page_number": 10
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Ingredients: • 1 cup all-purpose flour • 2 tablespoons sugar • 1 teaspoon baking powder • 1/2 teaspoon baking soda • 1/4 teaspoon salt • 1 cup buttermilk • 1 large egg • 2 tablespoons melted butter • 1 teaspoon vanilla extract Instructions: • In a bowl, whisk together flour, sugar, baking powder, baking soda, and salt. • In another bowl, combine buttermilk, egg, melted butter, and vanilla extract. • Pour the wet ingredients into the dry ingredients and stir until just combined. • Heat a non-stick skillet over medium heat and lightly grease it. • Pour 1/4 cup of batter onto the skillet for each pancake. • Cook until bubbles form on the surface, then flip and cook until golden brown. • Serve with syrup and your favorite toppings. Scrambled Eggs Ingredients: • 4 large eggs • 1/4 cup milk • Salt and pepper to taste • 1 tablespoon butter Instructions: • In a bowl, whisk together eggs, milk, salt, and pepper.",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Ingredients: • 1 large flour tortilla • 2 large eggs • 1/4 cup shredded cheese • 1/4 cup cooked sausage or bacon • 1/4 cup diced bell pepper • Salsa for serving Instructions: • In a bowl, whisk the eggs and cook them in a skillet over medium heat. • Add cheese, sausage or bacon, and bell pepper to the eggs. • Cook until the eggs are set and the vegetables are tender. • Place the egg mixture on one half of the tortilla and fold the other half over. • Cook in the skillet until the tortilla is golden brown and crispy. • Serve with salsa. Banana Bread Ingredients: • 3 ripe bananas, mashed • 1/3 cup melted butter • 1/2 cup sugar • 1 large egg, beaten • 1 teaspoon vanilla extract • 1 teaspoon baking soda • Pinch of salt • 1 1/2 cups all-purpose flour Instructions: • Preheat oven to 350°F (175°C).",
+      "page_number": 5
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Ingredients: • 1 banana • 1/2 cup frozen berries • 1/2 cup Greek yogurt • 1/2 cup milk • 1 tablespoon honey Instructions: • In a blender, combine banana, frozen berries, Greek yogurt, milk, and honey. • Blend until smooth. • Serve immediately. Breakfast Pizza Ingredients: • 1 pre-made pizza crust • 1/2 cup marinara sauce • 1 cup shredded mozzarella cheese • 2 large eggs • 1/4 cup cooked sausage or bacon • 1/4 cup diced bell pepper Instructions: • Preheat oven to 425°F (220°C). • Spread marinara sauce over the pizza crust. • Sprinkle mozzarella cheese on top. • Crack the eggs onto the pizza. • Add sausage or bacon and bell pepper. • Bake for 10-12 minutes or until the eggs are set and the cheese is melted. • Serve immediately. Muﬃns Ingredients: • 2 cups all-purpose flour • 1/2 cup sugar • 1 tablespoon baking powder • 1/2 teaspoon salt • 1 cup milk • 1/4 cup vegetable oil • 1 large egg • 1 teaspoon vanilla extract • 1 cup fresh or frozen berries Instructions: • Preheat oven to 375°F (190°C).",
+      "page_number": 7
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Ingredients: • 1/2 cup rolled oats • 1/2 cup almond milk • 1 tablespoon chia seeds • 1 tablespoon honey or maple syrup • 1/2 teaspoon vanilla extract • Toppings: fresh fruit, nuts, seeds Instructions: • In a jar, combine oats, almond milk, chia seeds, honey or maple syrup, and vanilla extract. • Stir well, cover, and refrigerate overnight. • In the morning, stir again and add your favorite toppings. Egg Muﬃns Ingredients: • 6 large eggs • 1/4 cup milk • 1/2 cup diced bell pepper • 1/2 cup diced spinach • 1/4 cup shredded cheese • Salt and pepper to taste Instructions: • Preheat oven to 350°F (175°C). • In a bowl, whisk together eggs, milk, salt, and pepper. • Stir in bell pepper, spinach, and cheese. • Pour the mixture into a greased muﬃn tin. • Bake for 20-25 minutes or until the eggs are set. • Let cool before removing from the tin.",
+      "page_number": 11
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Ingredients: • 1 banana • 1/2 cup Greek yogurt • 1/2 cup almond milk • 1 tablespoon peanut butter • 1 tablespoon honey Instructions: • In a blender, combine banana, Greek yogurt, almond milk, peanut butter, and honey. • Blend until smooth. • Serve immediately. Cottage Cheese and Veggie Bowl Ingredients: • 1 cup cottage cheese • 1/4 cup diced cucumber • 1/4 cup cherry tomatoes, halved • 1/4 cup diced bell pepper • Salt and pepper to taste Instructions: • In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper. • Season with salt and pepper. • Serve immediately. Almond Butter and Apple Slices Ingredients: • 1 apple, sliced • 2 tablespoons almond butter Instructions: • Spread almond butter on each apple slice. • Serve immediately.",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Ingredients: 1 pound beef sirloin, thinly sliced 1 small onion, diced 2 cloves garlic, minced 1 cup mushrooms, sliced 1 cup beef broth 1 cup sour cream 2 tablespoons flour 2 tablespoons butter 1 teaspoon paprika Salt and pepper to taste Egg noodles or rice for serving Instructions: In a large skillet, melt butter over medium heat. Add diced onion and minced garlic, sauté until translucent. Add sliced beef and cook until browned. Stir in mushrooms and cook until tender. Sprinkle flour over the mixture and stir to combine. Gradually add beef broth, stirring constantly until the sauce thickens. Stir in sour cream and paprika, season with salt and pepper. Simmer for a few minutes until heated through. Serve over egg noodles or rice. Chicken Parmesan",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Ingredients: 4 boneless, skinless chicken breasts 1 cup breadcrumbs 1/2 cup grated Parmesan cheese 1 cup marinara sauce 1 cup mozzarella cheese, shredded 2 eggs, beaten 1/2 cup flour 1/4 cup olive oil Salt and pepper to taste Instructions: Preheat oven to 375°F (190°C). Season chicken breasts with salt and pepper. Dredge chicken in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs and grated Parmesan cheese. Heat olive oil in a skillet over medium heat. Cook chicken until golden brown on both sides. Place chicken in a baking dish, top with marinara sauce and shredded mozzarella cheese. Bake for 20-25 minutes until cheese is melted and bubbly. Serve warm. Spaghetti Bolognese Ingredients: 1 pound ground beef 1 small onion, diced 2 cloves garlic, minced 1 carrot, grated 1 celery stalk, diced 1 can (28 ounces) crushed tomatoes 1/4 cup tomato paste 1/2 cup red wine (optional) 1 teaspoon dried oregano 1 teaspoon dried basil Salt and pepper to taste Spaghetti for serving Grated Parmesan cheese for garnish Instructions: In a large skillet, cook ground beef over medium heat until browned.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Ingredients: 1 pound ground lamb or beef 1 small onion, diced 2 cloves garlic, minced 1 cup frozen peas and carrots 1 cup beef broth 2 tablespoons tomato paste 2 tablespoons Worcestershire sauce 4 cups mashed potatoes 1/4 cup grated cheddar cheese Salt and pepper to taste Instructions: Preheat oven to 400°F (200°C). In a skillet, cook ground lamb or beef, diced onion, and minced garlic until browned. Stir in peas and carrots, beef broth, tomato paste, and Worcestershire sauce. Simmer until thickened, season with salt and pepper. Transfer meat mixture to a baking dish. Spread mashed potatoes over the top and sprinkle with grated cheddar cheese. Bake for 20-25 minutes until golden and bubbly. Serve warm. Pad Thai Ingredients: 8 ounces rice noodles 1/2 pound shrimp or chicken 2 eggs 1 cup bean sprouts 1/4 cup peanuts, chopped 2 tablespoons fish sauce 2 tablespoons tamarind paste 1 tablespoon sugar 1 tablespoon lime juice 1/4 cup green onions, chopped 2 tablespoons vegetable oil Instructions: Soak rice noodles in warm water until softened, then drain.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Ingredients: 1 pound boneless, skinless chicken thighs, cubed 1/4 cup cornstarch 1/4 cup soy sauce 1/4 cup rice vinegar 1/4 cup hoisin sauce 2 tablespoons sugar 2 cloves garlic, minced 1 teaspoon grated ginger 1/4 cup vegetable oil Cooked rice for serving Sliced green onions for garnish Instructions: In a bowl, toss chicken cubes with cornstarch. Heat vegetable oil in a skillet over medium heat. Cook chicken until golden and crispy, then set aside. In the same skillet, sauté minced garlic and grated ginger until fragrant. Stir in soy sauce, rice vinegar, hoisin sauce, and sugar, simmer until thickened. Return chicken to the skillet and toss to coat in the sauce. Serve over cooked rice, garnished with sliced green onions. Greek Moussaka",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Ingredients: 2 large eggplants, sliced 1 pound ground lamb or beef 1 small onion, diced 2 cloves garlic, minced 1 can (14.5 ounces) diced tomatoes 1/4 cup red wine 1 teaspoon cinnamon 1 teaspoon oregano 1/4 cup grated Parmesan cheese 2 tablespoons olive oil Salt and pepper to taste 2 cups béchamel sauce Instructions: Preheat oven to 375°F (190°C). Season eggplant slices with salt and let sit for 30 minutes, then pat dry. In a skillet, heat olive oil over medium heat. Cook eggplant until golden on both sides, then set aside. In the same skillet, cook ground lamb or beef, diced onion, and minced garlic until browned. Stir in diced tomatoes, red wine, cinnamon, oregano, salt, and pepper. Simmer for 20 minutes. In a baking dish, layer eggplant slices and meat sauce. Pour béchamel sauce over the top and sprinkle with grated Parmesan cheese. Bake for 30-35 minutes until golden and bubbly.",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Ingredients: 1 whole chicken 1 lemon, halved 4 cloves garlic, minced 1/4 cup olive oil 1 tablespoon fresh rosemary, chopped 1 tablespoon fresh thyme, chopped Salt and pepper to taste Instructions: Preheat oven to 375°F (190°C). Season the chicken with salt and pepper. Stuff the cavity with lemon halves and minced garlic. In a bowl, mix olive oil, chopped rosemary, and chopped thyme. Brush the mixture over the chicken. Place the chicken in a roasting pan and roast for 1 hour and 30 minutes until cooked through. Let rest before carving and serving. Shrimp and Grits Ingredients: 1 pound shrimp, peeled and deveined 1 cup grits 4 cups water 1/2 cup cheddar cheese, shredded 1/4 cup butter 1 small onion, diced 2 cloves garlic, minced 1/4 cup bacon, chopped 1/4 cup green onions, sliced Salt and pepper to taste Instructions: In a pot, bring water to a boil and stir in grits.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Ingredients: 1 pound chicken breast, cubed 1 small onion, diced 2 cloves garlic, minced 1 bell pepper, sliced 1 cup coconut milk 1/2 cup chicken broth 2 tablespoons green curry paste 1 tablespoon fish sauce 1 tablespoon brown sugar 1/4 cup fresh basil leaves 2 tablespoons vegetable oil Cooked rice for serving Instructions: In a large skillet, heat vegetable oil over medium heat. Cook diced onion and minced garlic until softened. Add cubed chicken and cook until browned. Stir in green curry paste, coconut milk, chicken broth, fish sauce, and brown sugar. Add sliced bell pepper and simmer for 15 minutes until chicken is cooked through. Stir in fresh basil leaves. Serve over cooked rice. Turkey Meatballs Ingredients: 1 pound ground turkey 1 small onion, diced 2 cloves garlic, minced 1/4 cup breadcrumbs 1 egg, beaten 1/4 cup grated Parmesan cheese 1 teaspoon oregano 1 teaspoon basil Salt and pepper to taste 2 tablespoons olive oil 1 jar (24 ounces) marinara sauce Instructions: In a bowl, mix ground turkey, diced onion, minced garlic, breadcrumbs, beaten egg, grated Parmesan cheese, oregano, basil, salt, and pepper.",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Ingredients: 1 pound chicken breast, sliced 1 bell pepper, sliced 1 small onion, sliced 2 tablespoons fajita seasoning 2 tablespoons vegetable oil Tortillas for serving Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings Instructions: In a large skillet, heat vegetable oil over medium heat. Cook sliced chicken, bell pepper, and onion until chicken is cooked through and vegetables are tender. Stir in fajita seasoning and cook for an additional 2 minutes. Serve chicken and vegetables in tortillas with desired toppings. Chicken Piccata Ingredients: 4 boneless, skinless chicken breasts 1/4 cup flour 1/4 cup lemon juice 1/4 cup chicken broth 1/4 cup capers 2 tablespoons butter 2 tablespoons olive oil Salt and pepper to taste Chopped parsley for garnish Instructions: Season chicken breasts with salt and pepper, then dredge in flour. In a large skillet, heat olive oil and butter over medium heat. Cook chicken until golden and cooked through, then set aside.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Ingredients: 1 pound chicken breast, sliced 1 cup broccoli florets 1 cup bell peppers, sliced 1 small onion, diced 2 cloves garlic, minced 2 tablespoons soy sauce 1 tablespoon oyster sauce 1 tablespoon sesame oil 1 teaspoon cornstarch 1/4 cup water Cooked rice for serving Instructions: In a small bowl, mix soy sauce, oyster sauce, sesame oil, cornstarch, and water. In a large skillet, heat sesame oil over medium heat. Cook sliced chicken until browned, then set aside. In the same skillet, sauté diced onion and minced garlic until fragrant. Add broccoli and bell peppers, stir-fry until tender. Return chicken to the skillet and pour sauce over the top. Cook until sauce is thickened. Serve over cooked rice. Coq au Vin Ingredients: 4 chicken thighs 1 small onion, diced 2 cloves garlic, minced 1 cup red wine 1 cup chicken broth 1 cup mushrooms, sliced 1 cup carrots, sliced 1/4 cup bacon, chopped 2 tablespoons tomato paste 2 tablespoons flour 2 tablespoons butter 1 teaspoon thyme 1 bay leaf Salt and pepper to taste Instructions: Preheat oven to 350°F (175°C).",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Ingredients: 1 pound crab meat 1 small onion, diced 1/4 cup breadcrumbs 1/4 cup mayonnaise 1 egg, beaten 1 tablespoon Dijon mustard 1 tablespoon Worcestershire sauce 1 teaspoon Old Bay seasoning 2 tablespoons vegetable oil Lemon wedges for serving Instructions: In a bowl, mix crab meat, diced onion, breadcrumbs, mayonnaise, beaten egg, Dijon mustard, Worcestershire sauce, and Old Bay seasoning. Form mixture into patties. In a skillet, heat vegetable oil over medium heat. Cook crab cakes until golden and crispy on both sides. Serve with lemon wedges. Enchiladas Ingredients: 1 pound ground beef 1 small onion, diced 2 cloves garlic, minced 1 can (14.5 ounces) enchilada sauce 1 cup shredded cheese 8 tortillas 1 teaspoon cumin 1 teaspoon chili powder 2 tablespoons vegetable oil Salt and pepper to taste Instructions: Preheat oven to 375°F (190°C). In a skillet, heat vegetable oil over medium heat. Cook ground beef, diced onion, and minced garlic until browned.",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Ingredients: 1 whole duck 1/4 cup soy sauce 1/4 cup honey 2 tablespoons hoisin sauce 2 tablespoons rice vinegar 2 cloves garlic, minced 1 teaspoon five-spice powder 1 teaspoon grated ginger 1/4 cup green onions, sliced Mandarin pancakes for serving Instructions: Preheat oven to 375°F (190°C). In a bowl, mix soy sauce, honey, hoisin sauce, rice vinegar, minced garlic, five-spice powder, and grated ginger. Brush the mixture over the duck. Place duck on a roasting rack and roast for 1 hour and 30 minutes until skin is crispy. Let rest before carving. Serve duck with sliced green onions and mandarin pancakes. Pork Schnitzel",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Ingredients: 4 pork cutlets 1/2 cup flour 2 eggs, beaten 1 cup breadcrumbs 1/4 cup vegetable oil 1 lemon, sliced Salt and pepper to taste Instructions: Season pork cutlets with salt and pepper. Dredge cutlets in flour, dip in beaten eggs, and coat with breadcrumbs. In a large skillet, heat vegetable oil over medium heat. Cook cutlets until golden and crispy on both sides. Serve with lemon slices. Quiche Lorraine Ingredients: 1 pie crust 6 slices bacon, cooked and crumbled 1 small onion, diced 1 cup grated Gruyère cheese 3 eggs 1 cup heavy cream 1/2 teaspoon salt 1/4 teaspoon pepper Instructions: Preheat oven to 375°F (190°C). Place pie crust in a pie dish. Sprinkle cooked bacon, diced onion, and grated Gruyère cheese over the crust. In a bowl, whisk eggs, heavy cream, salt, and pepper. Pour egg mixture over the filling. Bake for 30-35 minutes until set and golden. Serve warm.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Ingredients: 1 beef roast (3-4 pounds) 2 cloves garlic, minced 1 tablespoon fresh rosemary, chopped 1 tablespoon fresh thyme, chopped 1/4 cup olive oil Salt and pepper to taste Instructions: Preheat oven to 350°F (175°C). In a bowl, mix minced garlic, chopped rosemary, chopped thyme, olive oil, salt, and pepper. Rub the mixture over the beef roast. Place the roast in a roasting pan and cook for 1 hour and 30 minutes until desired doneness. Let rest before slicing and serving. Salmon en Papillote Ingredients: 4 salmon fillets 1 lemon, sliced 1 small onion, sliced 1 zucchini, sliced 1/4 cup olive oil 1 tablespoon fresh dill, chopped Salt and pepper to taste Parchment paper Instructions: Preheat oven to 375°F (190°C). Cut parchment paper into large squares. Place a salmon fillet in the center of each square. Top with lemon slices, sliced onion, and sliced zucchini. Drizzle with olive oil and sprinkle with chopped dill, salt, and pepper.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Ingredients: 1 pound ziti pasta 1 pound ground beef or Italian sausage 1 small onion, diced 2 cloves garlic, minced 1 jar (24 ounces) marinara sauce 1 cup ricotta cheese 1 cup shredded mozzarella cheese 1/2 cup grated Parmesan cheese 1 teaspoon dried oregano Salt and pepper to taste Instructions: Preheat oven to 375°F (190°C). Cook ziti according to package instructions, then drain. In a skillet, cook ground beef or sausage with diced onion and minced garlic until browned. Stir in marinara sauce, oregano, salt, and pepper, and simmer for 10 minutes. In a baking dish, layer half the ziti, half the sauce, dollops of ricotta, and half the mozzarella. Repeat layers. Top with grated Parmesan cheese. Bake for 25-30 minutes until bubbly and golden. Serve warm. Butter Chicken Ingredients: 1 pound boneless chicken thighs, cubed 1 cup plain yogurt 1 tablespoon lemon juice 2 cloves garlic, minced 1 teaspoon grated ginger 1 teaspoon garam masala 1 teaspoon turmeric 1 teaspoon cumin 1 can (14.5 ounces) tomato puree 1/2 cup heavy cream 2 tablespoons butter Salt and pepper to taste Chopped cilantro for garnish Cooked rice or naan for serving Instructions: In a bowl, mix yogurt, lemon juice, garlic, ginger, garam masala, turmeric, and cumin.",
+      "page_number": 4
+    }
+  ]
+}
